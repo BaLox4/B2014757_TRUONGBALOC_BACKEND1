@@ -21,6 +21,6 @@ exports.deleteALL = (req, res) => {
     res.send({ message:"deleteALL handler" })
 }
 
-exports.findAllFaforite = (req, res) => {
-    res.send({ message:"findAllFaforite handler" })
+exports.findAllFavorite = (req, res) => {
+    res.send({ message:"findAllFavorite handler" })
 }
